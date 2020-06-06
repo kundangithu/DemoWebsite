@@ -1,0 +1,5 @@
+.d-block w-100{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}

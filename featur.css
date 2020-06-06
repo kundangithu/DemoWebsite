@@ -1,0 +1,14 @@
+#featurr{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+#formm{
+    display: inline-block;
+    margin-left: 30%;
+    border: 2px solid black;
+    width: 40%;
+    padding: 10px;
+    
+}
